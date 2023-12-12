@@ -12,5 +12,5 @@
 <hr><p>npm install on both folder</p><h5>Steps</h5><ul>
 <li>npm run api-jwt in backend folder</li>
 </ul><ul>
-<li>npm start in frontend folder</li>
+<li>npm run dev in frontend folder</li>
 </ul>
